@@ -1,4 +1,4 @@
-'''Aula 4 Aprenda como criar interações entre o computador e o usuário,
+'''Quarta aula como criar interações entre o computador e o usuário,
  vendo o funcionamento das funções print() e input(), diretamente
 usando Variáveis.'''
 

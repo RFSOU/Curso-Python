@@ -3,7 +3,7 @@
 usando Variáveis.'''
 
 #No Python todos os comandos são considerados funções e todas as
-# funções tem parenteses ().
+# funções tem parenteses ().2018
 
 
 print('Olá mundo')# mostra o texto dentro de aspas

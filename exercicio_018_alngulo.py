@@ -1,4 +1,4 @@
-fron math import radians, sin, cos,tan # escrever cada metodo nesta linha faz com que não precise ser mecionado o math (modulo) no codigo
+from math import radians, sin, cos,tan # escrever cada metodo nesta linha faz com que não precise ser mecionado o math (modulo) no codigo
 ângulo = float (input('digite o angulo que você deseja:'))# digitar ângulo para variavel ângulo
 seno = sin(radians(ângulo)) # carrega o metodo sin para o calculo do SENO
 print ('O ângulo de {} tem o seno de {:.2f}'.format(ângulo,seno))

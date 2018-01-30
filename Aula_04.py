@@ -17,7 +17,7 @@ print ('7' + '4') #desta forma o Sinal de + não soma e sim junta as sentenças
 # as variaveis recebem dados usando-se o sinal de = chamado em python recebe
 #  ....nome = João
 
-nome ='Guanabara'
+nome ='Rodrigo'
 idade= 25
 peso = 72.8
 print(nome, idade, peso) # se fosse usado sinal de mais não juntaria pois

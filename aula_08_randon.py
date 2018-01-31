@@ -3,3 +3,4 @@ import random # este modulo gera um numnero randomico que fica
 # aleatorios de a 10
 num = random.randint(1,10)
 print (num)
+

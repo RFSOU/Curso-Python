@@ -4,10 +4,3 @@ num = int(input('Digite um numero:'))
 raiz = sqrt (num)
 print ('A raiz de {} é igual {:.2f}'.format( num,floor(raiz)))
 # agora que foi chamado as funções no inicio você não precisa usar o math.
-
-
-
-
-
-
-

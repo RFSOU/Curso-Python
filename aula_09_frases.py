@@ -33,7 +33,3 @@ print('video' in frase)
 #print(frase.split()) # faz a divisão da frase fazendo com  que ela tenha
                      # indices novos
 print(''.join(frase))
-
-
-
-

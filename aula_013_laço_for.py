@@ -27,4 +27,3 @@ for c in range(0, 4):
     n=int(input('digite uma valor'))#esse input vai rodar 4 vezes
     s += n # aqui é igua a variavel s recebendo n+1 ( s=n+1 ou s+=n)
 print('O somatorio de todos os valores foi {}'.format(s))'''
-

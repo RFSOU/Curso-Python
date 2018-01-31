@@ -34,4 +34,3 @@ print ('Divisão inteira {} e potência {}' .format (di,e))
 # / DIVISÃO NORMAL
 # % SOBRA DA DIVISÃO
 # Criar a raiz quadrada de um numero é o mesmo que criar a potência do mesmo por 1/2 entre parenteses no Python.
-

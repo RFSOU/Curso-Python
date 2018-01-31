@@ -42,3 +42,4 @@ print('você nasceu',dia,'do mes de',mes,'do ano de ',ano)
 
 
 
+

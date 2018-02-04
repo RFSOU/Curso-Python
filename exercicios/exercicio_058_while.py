@@ -16,8 +16,7 @@ while computador != jogador:
     sleep(3)  # do metodo time faz o computador dormir conforme atributo.
     palpite = palpite + 1 # conta um ciclo de pensamento do computador e acumula.
     if jogador != computador:
-        print(
-            '\033[0;31;0m GANHEI! eu pensei no numero \033[0;31;0m{} \033[0;31;0m e não no \033[0;31;0m{}!''\033[m'.format(
+        print('\033[0;31;0m GANHEI! eu pensei no numero \033[0;31;0m{} \033[0;31;0m e não no \033[0;31;0m{}!''\033[m'.format(
                 computador, jogador))# computador ganhou.
 else:
  print('\033[0;31;0m PARABÉNS! Você conseguiu me vencer em {} palpites!\033[m'.format(palpite))# jogador ganhou.

@@ -1,7 +1,4 @@
 opcao = 0
-v1 = 0
-v2 = 0
-mult = 0
 while opcao != 5:
     v1 = float(input('Digite um novo valor '))
     v2 = float(input('Digite outro valor '))

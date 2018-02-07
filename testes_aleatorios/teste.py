@@ -1,4 +1,4 @@
-"""
+'''
 Autores:
 Tiago Henrique da Cruz Pereira
 João Felipe de Moraes Borges
@@ -89,3 +89,17 @@ for m in range(1, MAX_CONEXOES - 1):
             arqui.close()
             os.remove(arqu)
 arquivo.close()
+'''
+import learn as learn
+
+'''from timeit import timeit
+
+import numpy as np
+dados01 = np.array([1,2,3,4,5,6,7,8,9])
+dados02 = np.array([1,2,3,4,5,6,7,8,9])
+print(dados01.mean())
+'''
+
+import pandas
+
+import scikit learn

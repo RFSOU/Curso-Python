@@ -6,7 +6,7 @@ r = int(input('Qual é a razão da PA'))
 print(' PA DE RAZÃO {} = {}'.format(r,a1))
 for c in range(0,9):
     if c <=11:
-        a1=a1*r
+        a1=a1+r
         print((' PA DE RAZÃO {} = {}').format(r,a1))
 print('fim')
 

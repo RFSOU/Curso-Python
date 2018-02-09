@@ -11,6 +11,7 @@ else:
 cont = 3
 while cont <= n:
     cont = cont + 1
+
     print('{},'.format(t1+t2),end='')
     t3=t1+t2
     t1=t2

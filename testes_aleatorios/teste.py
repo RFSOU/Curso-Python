@@ -100,6 +100,9 @@ dados02 = np.array([1,2,3,4,5,6,7,8,9])
 print(dados01.mean())
 '''
 
-import pandas
+#import pandas
 
-import scikit learn
+#import scikit learn
+
+n = 9 # Operador ternario.
+print("Hello" if n > 10 else "Goodbye" if n > 5 else "Good day")
